@@ -6,18 +6,18 @@ This repository contains all hardware and software resources for the **Reaction 
 
 ## 📦 Repository Structure
 
-1. **Documentation**  
+0. **Documentation**  
    - `RWIP-ProjectReport.pdf` – Full project report with modelling, design, and results
 
-2. **Electrical**  
+1. **Electrical**  
    - `KiCAD-PCB/` – Custom PCB for ATmega328P-based MCU, IMU, and power electronics  
    - Includes schematics, PCB layout, and Gerber files
 
-3. **Mechanical**  
+2. **Mechanical**  
    - `SolidWorks-Assembly/` – Full CAD model of the pendulum frame and flywheel  
    - `STL-Files/` – 3D-printable parts for prototyping the mechanical structure
 
-4. **Software**  
+3. **Software**  
    - `Firmware/` – Microcontroller code for ATmega328P (Arduino-compatible)  
    - Implements sensor fusion (complementary & Kalman filters), cascade PID control, and encoder-based velocity feedback
 
