@@ -2,6 +2,9 @@
 
 This repository contains all hardware and software resources for the **Reaction Wheel Inverted Pendulum** project — a physical model of a CubeSat's attitude correction and control system. Developed as part of a Bachelor of Engineering (Honours) in Mechatronics at TU Dublin, the system demonstrates closed-loop stabilization using reaction wheels, an IMU, and PID-based control.
 
+![3D Render of RWIP](./2.Mechanical/Renders/Untitled.JPG)  
+*Figure: 3D render of the Reaction Wheel Inverted Pendulum prototype*
+
 ---
 
 ## 📦 Repository Structure
